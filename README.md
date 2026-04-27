@@ -4,4 +4,4 @@
 # TEST REPO
 
 hello worldS
->>>>>>> 3114235 (added msg)
+>>>>>>> 3114235 (added msg)hgctfrc
